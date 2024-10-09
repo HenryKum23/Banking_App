@@ -293,10 +293,3 @@ npm run test
 <br />
 </details>
 
-## :iphone: Screenshots/Capturas de tela
-
-![Login - mobile](./screenshots/login-mobile.png)
-![Dashboard - mobile](./screenshots/dashboard-mobile.png)
-
-![Dashboard](./screenshots//dashboard.png)
-# Banking_App_proj
